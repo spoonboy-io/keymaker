@@ -1,2 +1,6 @@
 /.idea
 .DS_Store
+/certs
+keymaker.yaml
+keymaker
+filestore_test.go
